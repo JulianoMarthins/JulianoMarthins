@@ -1,8 +1,11 @@
 
-  <img src = "baner.webp" width = "205px" align = "right">
+  
+ <img src = "baner.webp" width = "205px" align = "right">
 
 
 # 👋🏻 Olá, meu nome é Juliano, é um enorme prazer ter sua presença por aqui! Sejam bem vindos
+
+<img src = "binario.webp" width = "400px" align = "center">
 
 <div align="center">
 
@@ -20,32 +23,6 @@ e suas bibliotecas voltadas para análise de dados, como Pandas e Matplotlib, be
 Possuo tambpem conhecimento em MySQL e Java, spring, assim como a utilização HTML e CSS na criação de alguns sites que criei durante os estudos de ASP.NET MVC.
 
 Me sinto preparado e ansioso para migar minha carreira atual para a programação;
-
----
-
-<img src = "matrix.webp" width = "700px" align = "center">
-
----
-
-
-## About me
-
-I fell in love with technology from a very early age, around 2007 I completed a course in assembly and maintenance of micro computers, since then I have carried out maintenance services as MEI.
-In 2019 I discovered the world of programming, which enchanted me and I started as a hobby, and created my first codes in Python,
-but it was only during the Corona virus pandemic, that I had 
-the opportunity to take a higher education course in Systems Analysis and Development at Unicessumar, thus graduating in 2023. 
-
-Today I feel prepared to change my career path, focusing on the sector that I have always loved, IT.
-In recent years, I have taken several courses to become a professional with the intention of reaching 
-I am as prepared as possible in the job market, therefore, I am looking for an opportunity as a systems developer.
-
-I have solid knowledge in CSharp, .NET, ASP.NET MVC,
-Windows Forms and Microsoft Azure and I consider CSharp to be my most in-depth programming language. Additionally, I have experience with Python 
-and its libraries focused on data analysis, such as Pandas and Matplotlib, as well as creating dashbopars in Power BI, an area in which I currently perform some services as a freelancer.
-I also have knowledge of MySQL and Java, spring, as well as the use of HTML and CSS in the creation of some websites that I created while studying ASP.NET MVC.
-
-I feel prepared and eager to switch my current career to programming;
-
 
 ---
 
