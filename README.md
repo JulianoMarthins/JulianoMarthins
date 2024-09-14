@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Sobre mim
+## Sobre mim
 
 Sou apaixonado por tecnologia deste muito cedo, por volta de 2007 conclui um curso de montagem e manutenção de micro computadores, desde então, realizo serviços de manutenção como MEI.
 Em 2019 conheci o mundo da programação, o que me encantou e comecei como forma de Hobby, e criar meus primeiros códigos em Python, mas foi só durante a pandemia do Corona virus, que tive 
@@ -21,7 +21,9 @@ Possuo tambpem conhecimento em MySQL e Java, spring, assim como a utilização H
 
 Me sinto preparado e ansioso para migar minha carreira atual para a programação;
 
+---
 
+<img src = "Matrix.webp" width = "205px" align = "center">
 
 ---
 
