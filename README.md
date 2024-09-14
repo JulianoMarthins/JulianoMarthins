@@ -77,19 +77,19 @@ Me sinto preparado e ansioso para migar minha carreira atual para a programaçã
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julianomarthins/">
-    <img width="180" width = "200" margin = "20" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img width="180" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 	
   <a href="https://www.instagram.com/julianomarthins82/">
-    <img width="205" width = "200" margin = "20" src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+    <img width="203" src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   
   <a href="mailto:julianopoamartins@gmail.com">
-    <img width="143" width = "200" margin = "20" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    <img width="140" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
   
   <a href="https://wa.me/5551996440559">
-    <img width="200" width = "200" margin = "20" src="https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp">
+    <img width="195" src="https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
