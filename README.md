@@ -23,7 +23,7 @@ Me sinto preparado e ansioso para migar minha carreira atual para a programaçã
 
 ---
 
-<img src = "Matrix.webp" width = "205px" align = "center">
+<img src = "matrix.webp" width = "700px" align = "center">
 
 ---
 
