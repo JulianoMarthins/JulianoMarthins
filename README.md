@@ -2,15 +2,12 @@
   
  <img src = "baner.webp" width = "205px" align = "right">
 
-<div align = "center">
 
 # 👋🏻 Olá, meu nome é Juliano, é um enorme prazer ter sua presença por aqui! Sejam bem vindos
 
-<div/>
+<div align ="center">
 
 <img src = "binario estatico.webp" height = "200" width ="400" >
-
-<div align="center">
 
 ## Sobre mim
 
