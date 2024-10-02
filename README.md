@@ -3,7 +3,7 @@
  <img src = "baner.webp" width = "205px" align = "right">
 
 
-# 👋🏻 Olá, meu nome é Juliano, é um enorme prazer ter sua presença por aqui! Sejam bem vindos
+# 👋🏻 Olá, eu sou o Juliano, é um enorme prazer ter sua presença por aqui! Seja bem vindo
 
 <div align ="center">
 
