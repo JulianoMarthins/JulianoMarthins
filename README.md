@@ -7,7 +7,7 @@
 
 <div align ="center">
 
-<img src = "binario estatico.webp" height = "165" width ="400" >
+<img src = "binario estatico.webp" height = "200" width ="400" >
 
 ## Sobre mim
 
