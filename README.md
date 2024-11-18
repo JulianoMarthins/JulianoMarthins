@@ -1,6 +1,6 @@
 
   
- <img src = "baner.webp" width = "200px" align = "right">
+ <img src = "baner.webp" width = "150px" align = "right">
 
 
 # 👋🏻 Olá, eu sou o Juliano, é um enorme prazer ter sua presença por aqui! Seja bem vindo
