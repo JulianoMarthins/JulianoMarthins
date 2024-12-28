@@ -11,16 +11,20 @@
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia desde muito novo, por volta de 2007 conclui curso de montagem e manutenção de micro computadores, desde então, realizo serviços de manuntençao como PJ.
-Em 2019 conheci um fantastico mundo da programação e tive meu primeiro contato com a linguagem de programação Python, comecei então a criar meus primeiros códigos como forma de hobby, pouco tempo depois
-resolvi realizar curso superior em Analise e Desenvolvimento de Sistemas, concluíndo o curso superior no final de 2023.
+Sou apaixonado por tecnologia deste muito cedo, por volta de 2007 conclui um curso técnico de montagem e manutenção de micro computadores, desde então, realizo serviços de manutenção como PJ. 
 
-Realizei nos últimos anos diversos cursos para me profissionalizar com intenção de chegar o mais preparado possivel para o mercado de trabalho, sendo assim, atualmente procuro uma oportunidade como desenvolvedor de sistemas.
+Pelos meados de 2019 tive a cai de paraquedas nos cursos de Python do Gustavo Guanabara e percebi que programar, era o que queria para meu futuro. Após concluir o curso de Python no Curso em Vídeo fui fazer a tão sonhada faculdade de Análise e Desenvolvimento de Sistemas.
 
-Durante a faculdade senti a necessidade de realiar cursos extras para me auxiliar durante o curso, neste perído fui certificado como programador CSharp e Java, tendo experiências em suas tecnologidas tais como .Net, Asp.Net MVC e Springboot
-Porém, a linguagem a qual mais de dediquei nesses anos todos de estudo foi o Python, linguagem que considero ter maior experiênica, possu certificações nela, focando meus estudos mais em analise de dados, utilizando as bibliotecas Pandas, MatPlotLib, NumPy. Assim como conhecimentos medianos em Excel e Power Bi, nesta área, realizo alguns serviços para empresas locais no formato PJ.
+Durante o curso da faculdade acabei sentindo a necessidade de realizar cursos extras, pois queria chegar ao mercado de trabalho o mais forte possível, a faculdade me dava muita teoria mas nem tanta pratica, foi assim então que acabei realizando os de Java com a Dev. Superior e a Cod3r, conquistando assim mais alguns certificados em Java e MySQL
 
-Hoje me sinto preparado para migar minha carreira atual para a área da programação;
+Quase que no fim do curso tive contato com o CSharp, linguagem a qual me identifiquei, gostei muito de estudá-la devido a sua similaridade com Java porém, muito mais objetiva e prazerosa de se trabalhar, admito que cogitei focar e tentar seguir carreira nela porém, pesquisas me mostraram um baixo número de vagas para júnior perto de linguagens como Java e Python, fora quem em Python, já estava com algumas portas abertas para mim, no mercado de trabalho, ao qual presto alguns serviços como PJ.
+
+ empo de estudo, até pela similaridade com o Java, porém, possuo certificado e admito que a linguagem me conquistou bastante, um prazer enorme codificar em CSharp, 
+conheci o mundo da programação, o que me encantou e comecei como forma de Hobby, e criar meus primeiros códigos em Python, mas foi só durante a pandemia do Corona virus, que tive a oportunidade de cursar pela Unicessumar o curso superior em Analise e Desenvolvimento de Sistemas, me formando assim em 2023.
+
+Hoje me sinto preparado para migrar minha de carreira focando assim, no setor que sempre amei, T.I. Realizei nos últimos anos diversos cursos para me profissionalizar com intenção de chegar o mais preparado possível no mercado de trabalho, sendo assim, procuro uma oportunidade como desenvolvedor de sistemas.
+
+Hoje estou a procura de um novo emprego pois me sinto devidamente preparado para o mercado de trabalho e iniciar assim minha tão sonhada carreira como desenvolvedor de sistemas. 
 
 ---
 
@@ -46,7 +50,8 @@ Hoje me sinto preparado para migar minha carreira atual para a área da programa
   ## Technologies and frameworks
   <div align="center">
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
+</code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
 	
