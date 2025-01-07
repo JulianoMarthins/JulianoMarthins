@@ -11,20 +11,19 @@
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia deste muito cedo, por volta de 2007 conclui um curso técnico de montagem e manutenção de micro computadores, desde então, realizo serviços de manutenção como PJ. 
+Sou apaixonado por tecnologia deste muito cedo, por volta de 2007 conclui um curso técnico de montagem e manutenção de micro computadores, desde então, realizo serviços de manutenção como PJ.
 
-Pelos meados de 2019 tive a cai de paraquedas nos cursos de Python do Gustavo Guanabara e percebi que programar, era o que queria para meu futuro. Após concluir o curso de Python no Curso em Vídeo fui fazer a tão sonhada faculdade de Análise e Desenvolvimento de Sistemas.
 
-Durante o curso da faculdade acabei sentindo a necessidade de realizar cursos extras, pois queria chegar ao mercado de trabalho o mais forte possível, a faculdade me dava muita teoria mas nem tanta pratica, foi assim então que acabei realizando os de Java com a Dev. Superior e a Cod3r, conquistando assim mais alguns certificados em Java e MySQL
 
-Quase que no fim do curso tive contato com o CSharp, linguagem a qual me identifiquei, gostei muito de estudá-la devido a sua similaridade com Java porém, muito mais objetiva e prazerosa de se trabalhar, admito que cogitei focar e tentar seguir carreira nela porém, pesquisas me mostraram um baixo número de vagas para júnior perto de linguagens como Java e Python, fora quem em Python, já estava com algumas portas abertas para mim, no mercado de trabalho, ao qual presto alguns serviços como PJ.
+Pelos meados de 2019 tive a cai de paraquedas nos cursos de Python do Gustavo Guanabara e percebi que programar, era o que queria para meu futuro. Após concluir o curso de Python no Curso em Vídeo resolvi aprofundar mais meus conhecimentos, entrando assim na faculdade UniCesumar para a realização do curso superior de  Análise e Desenvolvimento de Sistemas, no qual me formei no final de 2023.
 
- empo de estudo, até pela similaridade com o Java, porém, possuo certificado e admito que a linguagem me conquistou bastante, um prazer enorme codificar em CSharp, 
-conheci o mundo da programação, o que me encantou e comecei como forma de Hobby, e criar meus primeiros códigos em Python, mas foi só durante a pandemia do Corona virus, que tive a oportunidade de cursar pela Unicessumar o curso superior em Analise e Desenvolvimento de Sistemas, me formando assim em 2023.
 
-Hoje me sinto preparado para migrar minha de carreira focando assim, no setor que sempre amei, T.I. Realizei nos últimos anos diversos cursos para me profissionalizar com intenção de chegar o mais preparado possível no mercado de trabalho, sendo assim, procuro uma oportunidade como desenvolvedor de sistemas.
 
-Hoje estou a procura de um novo emprego pois me sinto devidamente preparado para o mercado de trabalho e iniciar assim minha tão sonhada carreira como desenvolvedor de sistemas. 
+Durante o curso da faculdade acabei sentindo a necessidade de realizar cursos extras, pois estava recebendo muita teoria e pouca pratica para o que eu esperava do curso já meu objetivo era chegar  ao mercado de trabalho o mais forte possível me tentar me destacar ao máximo em minha nova carreira como programador, foi assim então que acabei realizando os de Java completo pela plataforma de ensino Dev.Superior, Cod3r e Curso em Vídeo, realizei os três cursos pois cada um tinha sua peculiaridade, o que me traria um maior conhecimento da linguagem, sendo assim, em paralelo ao curso superior conquistei as certificações em Java.
+
+
+
+Hoje possuo sólidos conhecimentos em Python e Java e me sinto preparado para atuar como desenvolvedor de software.  
 
 ---
 
