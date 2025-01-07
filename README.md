@@ -11,20 +11,13 @@
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia deste muito cedo, por volta de 2007 conclui um curso técnico de montagem e manutenção de micro computadores, desde então, realizo serviços de manutenção como PJ.
+Sou apaixonado por tecnologia desde cedo. Em 2007, concluí um curso técnico de montagem e manutenção de microcomputadores e, desde então, realizo serviços de manutenção como PJ.
 
+Em 2019, descobri por acaso os cursos de Python do Gustavo Guanabara e percebi que a programação era o que eu queria para o meu futuro. Após concluir o curso de Python no Curso em Vídeo, decidi aprofundar meus conhecimentos e ingressei na UniCesumar para cursar Análise e Desenvolvimento de Sistemas, curso no qual me formei no final de 2023.
 
+Durante a faculdade, senti a necessidade de realizar cursos extras, pois recebia muita teoria e pouca prática. Meu objetivo era entrar no mercado de trabalho o mais preparado possível e me destacar em minha nova carreira como programador. Por isso, realizei os cursos de Java completo pelas plataformas Dev.Superior, Cod3r e Curso em Vídeo. Cada curso tinha suas peculiaridades, proporcionando-me um maior conhecimento da linguagem. Paralelamente ao curso superior, conquistei certificações em Java.
 
-Pelos meados de 2019 tive a cai de paraquedas nos cursos de Python do Gustavo Guanabara e percebi que programar, era o que queria para meu futuro. Após concluir o curso de Python no Curso em Vídeo resolvi aprofundar mais meus conhecimentos, entrando assim na faculdade UniCesumar para a realização do curso superior de  Análise e Desenvolvimento de Sistemas, no qual me formei no final de 2023.
-
-
-
-Durante o curso da faculdade acabei sentindo a necessidade de realizar cursos extras, pois estava recebendo muita teoria e pouca pratica para o que eu esperava do curso já meu objetivo era chegar  ao mercado de trabalho o mais forte possível me tentar me destacar ao máximo em minha nova carreira como programador, foi assim então que acabei realizando os de Java completo pela plataforma de ensino Dev.Superior, Cod3r e Curso em Vídeo, realizei os três cursos pois cada um tinha sua peculiaridade, o que me traria um maior conhecimento da linguagem, sendo assim, em paralelo ao curso superior conquistei as certificações em Java.
-
-
-
-Hoje possuo sólidos conhecimentos em Python e Java e me sinto preparado para atuar como desenvolvedor de software.  
-
+Hoje, possuo sólidos conhecimentos em Python e Java e me sinto preparado para atuar como desenvolvedor de software.
 ---
 
    ## Languages
