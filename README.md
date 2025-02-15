@@ -1,6 +1,6 @@
 
   
- <img src = "baner.webp" width = "205px" align = "right">
+ <img src = "baner.webp" width = "180px" align = "right">
 
 
 # 👋🏻 Ola! Sejam bem vindos ao meu GitHub! Sou o Juliano Martins, desenvolvedor Java
