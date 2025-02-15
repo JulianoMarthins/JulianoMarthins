@@ -57,31 +57,26 @@ Estou ansioso para aplicar meu conhecimento e experiência adquirida nesses mais
   <img width="12" />
 </div>
 
-###
-
   
 ---
 
 ## Contatos
-</div>   
 
-<div align="center">
+
+  <div align="center">
   <a href="https://www.linkedin.com/in/julianomarthins/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/poa.martins/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="julianomarthins" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="+5551996440559" target="_blank">
+  <a href="https://wa.me/5551996440559" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="julianomarthins@yahoo.com.br" target="_blank">
+  <a href="mailto:julianopoamartins@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
+  
 
 ---
 
@@ -92,6 +87,6 @@ Estou ansioso para aplicar meu conhecimento e experiência adquirida nesses mais
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianomarthins&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+
 ---
 
