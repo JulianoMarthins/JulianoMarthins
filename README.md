@@ -7,7 +7,9 @@
 
 <div align ="center">
 
-<img src = "binario estatico.webp" height = "200" width ="400" >
+<img src = "javaGif.gif" height = "300" width ="550" >
+
+---
 
 ## Sobre mim
 
@@ -43,7 +45,7 @@ Estou ansioso para aplicar meu conhecimento e experiência adquirida nesses mais
     <img width="160" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 	
-  <a href="https://www.instagram.com/julianomarthins82/">
+  <a href="https://www.instagram.com/poa.martins/">
     <img width="203" src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   
@@ -56,6 +58,11 @@ Estou ansioso para aplicar meu conhecimento e experiência adquirida nesses mais
   </a>
 </p>
 
+# Snake
 
+<img src="https://raw.githubusercontent.com/julianomarthins/julianomarthins/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
+
