@@ -81,18 +81,5 @@ Hoje, possuo sólidos conhecimentos Java e me sinto preparado para atuar como de
 </p>
 
 
-</div>
-
- ---
-<div align = "center">
-		
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoMarthins&show_icons=true&theme=radical&count_private=true&"/>
-
-
-	
-<img height = "300em" src="https://github-readme-stats.vercel.app/api?username=julianomarthins&show_icons=true&show_icons=true&theme=radical&count_private=true" />
-
-<div/>
-
 
 ---
