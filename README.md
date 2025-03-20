@@ -13,13 +13,22 @@
 
 ## Sobre mim
 
-Desde muito novo sou completamente apaixonado por tecnologia, meu primeiro trabalho foi aos quinze anos em uma assistência técnica onde eu realizava manutenções de hardware e software, trabalho este que eu faço até os dias de hoje para fins pessoais e forma de renda extra.	
+Sou desenvolvedor back-end com experiência em Java e Spring Boot, realizo 
+criação de API’s rest com integrações ao banco de dados utilizando a JPA, criação 
+de testes utilizando o H2 para testes em memória e postgres para banco de dados 
+final. Realização de micro serviços e testes unitários, versionamento de código com 
+o git, utilização de mecanismos de segurança com as ferramentas OAuth2 e JWT, 
+Postman e Docker como softwares auxiliares no desenvolvimento.
 
-Quando tive a oportunidade de conhecer o mundo da programação graças às facilidades de acesso que a  internet nos trouxe, decidi ser o caminho que gostaria de trilhar, comecei o estudos na área e hoje tenho muito orgulho em dizer que me formei no curso superior em Análise e Desenvolvimento de Sistemas pela universidade UniCesumar, nesta ainda estou realizando uma pós-graduação no curso Lato Sensu em Desenvolvimento de Sistemas com Java.
+Sou um profissional proativo na resolução de problemas, tenho excelentes 
+habilidades de comunicação verbal e escrita, facilidade de aprendizagem, boa 
+relação nos trabalhos em equipe e desejo de crescimento profissional constante. 
 
-Sendo assim, além dos conhecimentos adquiridos na faculdade, possuo certificações em cursos completos de Java com Spring boot, considero ter sólidos conhecimentos no back-end, possuo experiências acadêmicas, projetos pessoais e freelancer na criação de API’s com spring, micro serviços, integração do sistema com banco de dados relacionais, utilizando a JPA e Hibernate, bancos de dados Postgres e H2 para testes, mecanismos de segurança como o OAuth2 e JWT,  postman, docker, entre outras tecnologias que me ajudam no desenvolvimento de aplicações escaláveis.  
- 
-Sou um profissional proativo na resolução de problemas, tenho ótimas habilidades de comunicação, tanto na verbal quanto na escrita, facilidade de aprendizagem, curiosidade e compromisso com o trabalho, administro bem possíveis pressões assim como a gestão de tempo, sendo assim capaz de gerenciar múltiplas tarefas. Sou paciente, educado e sei trabalhar muito bem em equipe, tenho perfil de liderança ao procurar incentivar e ajudar os colegas em suas demandas,  procurando sempre agregar a equipe para que nossos esforços sejam reconhecidos. Procuro sempre me especializar e realizar com excelência meu trabalho para meu crescimento pessoal e profissional na empresa.
+Possuo ensino superior completo em Análise e Desenvolvimento de Sistemas 
+pela universidade UniCesumar e pós graduação em andamento no curso de Latu 
+Sensu em Desenvolvimento de Sistemas Java. Estou em andamento com cursos de 
+front-end utilizando o FrameWork Angular, desenvolvendo os conhecimentos em 
+TypeScript, HTML e CSS. 
 
 
 
