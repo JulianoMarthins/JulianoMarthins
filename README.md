@@ -3,7 +3,7 @@
  <img src = "baner.webp" width = "180px" align = "right">
 
 
-# 👋🏻 Ola! Sejam bem vindo ao GitHub! Sou o Juliano Martins, desenvolvedor Java Spring
+# 👋🏻 Ola! Me chamo Juliano Martins e sou desenvolvedor FullStack! Sejam bem vindos
 
 <div align ="center">
 
