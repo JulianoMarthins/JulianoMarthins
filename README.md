@@ -3,8 +3,15 @@
  <img src = "baner.webp" width = "180px" align = "right">
 
 
+
+
+  
 # 👋🏻 Ola! Me chamo Juliano Martins e sou desenvolvedor FullStack! Sejam bem vindos
 
+  
+
+
+  
 <div align ="center">
 
 <img src = "javaGif.gif" height = "300" width ="550" >
@@ -13,24 +20,14 @@
 
 ## Sobre mim
 
-Sou desenvolvedor back-end com experiência em Java e Spring Boot, realizo 
-criação de API’s rest com integrações ao banco de dados utilizando a JPA, criação 
-de testes utilizando o H2 para testes em memória e postgres para banco de dados 
-final. Realização de micro serviços e testes unitários, versionamento de código com 
-o git, utilização de mecanismos de segurança com as ferramentas OAuth2 e JWT, 
-Postman e Docker como softwares auxiliares no desenvolvimento.
-
-Sou um profissional proativo na resolução de problemas, tenho excelentes 
-habilidades de comunicação verbal e escrita, facilidade de aprendizagem, boa 
-relação nos trabalhos em equipe e desejo de crescimento profissional constante. 
-
-Possuo ensino superior completo em Análise e Desenvolvimento de Sistemas 
-pela universidade UniCesumar e pós graduação em andamento no curso de Latu 
-Sensu em Desenvolvimento de Sistemas Java. Estou em andamento com cursos de 
-front-end utilizando a biblioteca React, desenvolvendo os conhecimentos em 
-JavaScript, HTML e CSS. 
+<div align="left">
+Sou desenvolvedor full stack com experiência na criação de APIs REST utilizando Java e Spring Boot, garantindo integrações eficientes com banco de dados através da JPA. Trabalho com bancos como PostgreSQL e MySQL, utilizo o banco H2 para testes em memória para assim assegurar confiabilidade no desenvolvimento. Tenho experiência em arquitetura de micro serviço, implementação de testes unitários com JUnit, e versionamento de código com Git. Desenvolvo mecanismos de segurança robustos por meio de OAuth2OAuth2, padronizando autenticação com JWT. No fluxo de desenvolvimento, faço uso do Postman para testes das APIs e do Docker para gerenciamento de contêineres, além de orquestração de deploy automatizado com CI/CD.
+Com excelente experiência na criação de interfaces dinâmicas e responsivas utilizando as linguagens de programação JavaScript, HTML e CSS, com especialização em React para desenvolvimento de aplicações frontend modernas. Trabalho com componentização, gerenciamento de estado com Redux, consumo de APIs REST e integração com backend utilizando Fetch API. Implemento Styled-Componets, Tailwind CSS e pré-processadores como Sass para otimizar a estilização, garantindo um design modular e escalável. Tenho experiência na construção de formulários com Formik e validação com Yup. Além disso, aplico testes unitários com React Testing library. No fluxo de desenvolvimento, faço deploy automatizado com CI/CD assim como no back-end e monitoro as aplicações usando ferramentas como Vercel, netlify e Firebase.
+Sou um profissional proativo e apaixonado por tecnologia, com forte habilidade na resolução de problemas e possuo um olhar analítico voltado para a inovação e eficiência. Destaco-me pela excelente comunicação verbal e escrita, excelente capacidade de aprendizado e um perfil colaborativo, facilitando o trabalho em equipe e a adaptação a novos desafios. Minha busca por crescimento profissional constante me motiva a aprender e aprimorar minhas habilidades continuamente.
+Possuo ensino superior completo em Análise e Desenvolvimento de Sistemas pela Universidade UniCesumar e atualmente estou cursando uma pós-graduação Lato Sensu em Desenvolvimento de Sistemas Java, aprofundando meu conhecimento na linguagem e suas aplicações webs. Além disso, mantenho-me atualizado e em constante especialização, explorando novas tecnologias e tendências do setor para oferecer soluções inovadoras e eficientes.
 
 
+</div>
 
 ---
 
