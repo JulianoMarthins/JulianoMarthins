@@ -6,7 +6,7 @@
 
 
   
-# 👋🏻 Ola! Me chamo Juliano Martins e sou desenvolvedor FullStack! Sejam bem vindos
+# 👋🏻 Ola! Me chamo Juliano Martins e sou desenvolvedor sistemask! Sejam bem vindos
 
   
 
