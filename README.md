@@ -21,9 +21,10 @@
 <div align="left">
 Estou em busca da minha primeira oportunidade na área de Tecnologia da informação, possuo total disponibilidade para atuar em qualquer função que me permita ingressar nessa área, visando o crescimento profissional.
 Sou um profissional formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Desenvolvimento de Sistemas Web com Java. Tenho como objetivo me desenvolver dentro da empresa, contribuindo a mesma com total dedicação, sempre procurando me desenvolver profissionalmente para alcançar o crescimento profissional desejado.
-Hoje possuo experiência prática nas linguagens C#, Python, MySQL e Java, com destaque maior para Java, na qual aprofundei mais meus estudos, domino conceitos avançados da linguagem como a criação de APIs REST com Spring Boot, integrações com JDBC e JPA, autenticação e segurança com OAuth2, além de conhecimentos em JavaEE. 
+Hoje possuo experiência prática nas linguagens C#, Python, MySQL e Java, com destaque maior para Java, na qual aprofundei mais meus estudos, domino conceitos avançados da linguagem como a criação de APIs REST com Spring Boot, integrações com JDBC e JPA, autenticação e segurança com OAuth2.
  Em C# e Python realizei criações de APIs REST com Asp.Net e Django, também possuo conhecimento em analise de Dados com bibliotecas como NumPy, Pandas, MatPlotLib e PowerBI. Estou focando meus estudos em Java porque, além de ter gostado muito dela em modo geral, a considero uma linguagem muito robusta para criação de sistemas robustos e escalável, amplamente utilizada no mercado corporativo e essencial para aplicações empresariais de alta performance e segurança
 Sou movido por desafios, aprendizado constante, tenho facilidade de adaptação, perfil colaborativo e foco no cliente e em resultados, possou boa comunicação, proatividade e boas habilidades na resolução de problemas, sou analítico e possuo boa comunicação verbal e escrita.
+
 
 
 </div>
