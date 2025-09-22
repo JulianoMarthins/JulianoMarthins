@@ -6,11 +6,9 @@
 
 
   
-# 👋🏻 Ola! Me chamo Juliano Martins e sou desenvolvedor sistemask! Sejam bem vindos
+# 👋🏻 Ola! Me chamo Juliano Martins e sou desenvolvedor sistemas! Sejam bem vindos
 
   
-
-
   
 <div align ="center">
 
