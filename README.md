@@ -6,7 +6,7 @@
 
 
   
-# 👋🏻 Ola! Me chamo Juliano Martins e sou desenvolvedor sistemas! Sejam bem vindos
+# 👋🏻 Ola! Me chamo Juliano Martins e sou desenvolvedor de sistemas! Sejam bem vindos
 
   
   
