@@ -19,17 +19,47 @@
 ## Sobre mim
 
 <div align="left">
-Estou em busca da minha primeira oportunidade na área de Tecnologia da informação, possuo total disponibilidade para atuar em qualquer função que me permita ingressar nessa área, visando o crescimento profissional.
-<br>  
-Sou um profissional formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Desenvolvimento de Sistemas Web com Java. Tenho como objetivo me desenvolver dentro da empresa, contribuindo a mesma com total dedicação, sempre procurando me desenvolver profissionalmente para alcançar o crescimento profissional desejado.
+
+Sou profissional da área de Tecnologia da Informação, formado em <Strong>Análise e
+Desenvolvimento de Sistemas</Strong> e pós-graduado em <Strong>Desenvolvimento de Sistemas
+Web</Strong>, com sólida experiência em <Strong>C# e ASP.NET Core</Strong> para criação de APIs REST
+escaláveis e seguras. 
+
 <br>
-Hoje possuo experiência prática nas linguagens C#, Python, MySQL e Java, com destaque maior para Java, na qual aprofundei mais meus estudos, domino conceitos avançados da linguagem como a criação de APIs REST com Spring Boot, integrações com JDBC e JPA, autenticação e segurança com OAuth2.
+
+Tenho domínio de práticas avançadas como <Strong>JWT, OAuth2</Strong> para
+controle de acesso, <Strong>CI/CD</Strong> e integração com serviços externos, sempre aplicando
+padrões de arquitetura e boas práticas de desenvolvimento.
+
 <br>
-Em Python realizei criações de APIs REST Django além de possuir conhecimentos em Análise de Dados utilizando bibliotecas como NumPy, Pandas e MatPlotLib.
+
+No Front-end, trabalho com <Strong>HTML, CSS e JavaScript</Strong>, explorando conceitos modernos
+como manipulação do DOM, componentização e frameworks como <Strong>React</Strong>, garantindo
+interfaces responsivas e de alta performance. Minha experiência também inclui
+conhecimentos complementares em <Strong>Java (Spring Boot) e Python (Análise de Dados e
+Automações)</Strong>, que ampliam minha visão técnica, embora meu foco seja voltado para o
+ecossistema <Strong>.NET e desenvolvimento web Full Stack</Strong>.
+
 <br>
-Estou focando meus estudos em Java porque, além de ter gostado muito dela de modo geral, a considero uma linguagem muito robusta para criação de sistemas robustos e escalável, amplamente utilizada no mercado corporativo e essencial para aplicações empresariais de alta performance e segurança.
+
+Sou uma pessoa proativa, com facilidade em aprender novas tecnologias e aplicar
+soluções inovadoras. Tenho perfil colaborativo, gosto de trabalhar em equipe e
+valorizo a comunicação clara e eficiente.
+
 <br>
-Sou movido por desafios, aprendizado constante, tenho facilidade de adaptação, perfil colaborativo e foco no cliente e em resultados, possou boa comunicação, proatividade e boas habilidades na resolução de problemas, sou analítico e possuo boa comunicação verbal e escrita.
+Estou disposto a atuar em diferentes áreas da Tecnologia da Informação, incluindo
+funções iniciais como suporte técnico, testes de software (QA), manutenção de
+sistemas ou atendimento a usuários, pois acredito que essas experiências também são
+fundamentais para compreender melhor os processos e agregar valor ao negócio.
+Tenho plena capacidade de aprender rapidamente e contribuir em qualquer segmento
+da área.
+
+<br> 
+
+Meu objetivo é crescer profissionalmente dentro da empresa, consolidando minha
+carreira na área de programação e desenvolvimento de software, sempre buscando
+evolução contínua, aprimoramento técnico e alinhamento com os objetivos
+organizacionais.
 
 </div>
 
