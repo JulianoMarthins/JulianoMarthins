@@ -20,46 +20,23 @@
 
 <div align="left">
 
-Sou profissional da área de Tecnologia da Informação, formado em <Strong>Análise e
-Desenvolvimento de Sistemas</Strong> e pós-graduado em <Strong>Desenvolvimento de Sistemas
-Web</Strong>, com sólida experiência em <Strong>C# e ASP.NET Core</Strong> para criação de APIs REST
-escaláveis e seguras. 
+Desenvoledor de sistemas com experiência no ecossistema <Strong>Java</Strong>, graduado em <Strong>Análise
+e Desenvolvimento de Sistemas</Strong> e pós graduado em <Strong>Desenvolvimento de Sistemas Web</Strong>.
+
 
 <br>
 
-Tenho domínio de práticas avançadas como <Strong>JWT, OAuth2</Strong> para
-controle de acesso, <Strong>CI/CD</Strong> e integração com serviços externos, sempre aplicando
-padrões de arquitetura e boas práticas de desenvolvimento.
+Desenvolvo sistemas obustos utilizando <Strong>Spring boot</Strong>, utilizando tecnologias como <Strong>Spring Security</Strong>, 
+<Strong>Spring JPA</Strong>, criação de <Strong>API REST</Strong> escaláveis seguindo os padrões de arquitetura em camadas,
+boas praticas de programação adepto ao <Strong>Clean Code</Strong e aos principios <Strong>SOLID</Strong>
 
 <br>
 
-No Front-end, trabalho com <Strong>HTML, CSS e JavaScript</Strong>, explorando conceitos modernos
-como manipulação do DOM, componentização e frameworks como <Strong>React</Strong>, garantindo
-interfaces responsivas e de alta performance. Minha experiência também inclui
-conhecimentos complementares em <Strong>Java (Spring Boot) e Python (Análise de Dados e
-Automações)</Strong>, que ampliam minha visão técnica, embora meu foco seja voltado para o
-ecossistema <Strong>.NET e desenvolvimento web Full Stack</Strong>.
+Possuo compentências complementares em <Strong>JavaScript</Strong> e <Strong>React JS</Strong>, utilizando conceitos
+modernos de componentização para criar interfaces de alta performance, isso somado ao <Strong>HTML</Strong> e <Strong>CSS</Strong>. 
+Entre esses, acrescento experiência com <Strong>C#</Strong> e seu framework <Strong>ASP.Net Core</Strong> e <Strong>Python</Strong> para 
+a realização de <Strong>Análise de Dados</Strong>
 
-<br>
-
-Sou uma pessoa proativa, com facilidade em aprender novas tecnologias e aplicar
-soluções inovadoras. Tenho perfil colaborativo, gosto de trabalhar em equipe e
-valorizo a comunicação clara e eficiente.
-
-<br>
-Estou disposto a atuar em diferentes áreas da Tecnologia da Informação, incluindo
-funções iniciais como suporte técnico, testes de software (QA), manutenção de
-sistemas ou atendimento a usuários, pois acredito que essas experiências também são
-fundamentais para compreender melhor os processos e agregar valor ao negócio.
-Tenho plena capacidade de aprender rapidamente e contribuir em qualquer segmento
-da área.
-
-<br> 
-
-Meu objetivo é crescer profissionalmente dentro da empresa, consolidando minha
-carreira na área de programação e desenvolvimento de software, sempre buscando
-evolução contínua, aprimoramento técnico e alinhamento com os objetivos
-organizacionais.
 
 </div>
 
